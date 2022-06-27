@@ -1,4 +1,4 @@
-using GroceryApi;
+using GroceryApi.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;

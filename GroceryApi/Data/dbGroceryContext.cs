@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using GroceryApi.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace GroceryApi
+namespace GroceryApi.Data
 {
     public partial class dbGroceryContext : DbContext
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace GroceryApi
+namespace GroceryApi.Models
 {
     public partial class Product
     {

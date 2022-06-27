@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using GroceryApi;
 using Microsoft.AspNetCore.Authorization;
+using GroceryApi.Models;
+using GroceryApi.Data;
 
 namespace GroceryApi.Controllers
 {

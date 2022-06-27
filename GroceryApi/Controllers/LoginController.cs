@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using GroceryApi.Data;
+using GroceryApi.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
